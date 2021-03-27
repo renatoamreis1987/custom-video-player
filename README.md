@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A project that converts text to Speech. The JokeAPI generates a random Joke, then we send that Joke over the Text-to-Speech and we get it as audio. 
+This is a small project to handle the validation on the front-end side. 
 
 [Project on GitHub Pages](https://renatoamreis1987.github.io/joke-teller/)
 
